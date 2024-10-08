@@ -1,4 +1,4 @@
-Be sure to join the official Unblocked Sites Discord server! https://discord.gg/rcpC9VfE
+
 
 
 # Unblocked Sites
