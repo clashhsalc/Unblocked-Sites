@@ -9,12 +9,10 @@
 - https://superteamxx.github.io/Subway-Surfers/   -  unblocked subway surfers
 - https://superteamxx.github.io/GBA-Emulator-Unblocked/  -  preinstalled GBA unblocked  
 - https://unblocker.whitespider.gq/   -  unblocked games
+- https://sz-games.github.io   -  unblocked games
 
 --------------------------------------------------------------------------------------------
 untested websites:
-- https://unlock.wmeluna.com/
-- https://sz-games.github.io
-- https://ubg100.bitbucket.io/games.html
 - https://suite.saltyspamz.xyz/
 - https://mathadventure1.github.io/sm64/sm64/index.html
 - https://picklekid31.github.io/GBA-unblocked-games/
