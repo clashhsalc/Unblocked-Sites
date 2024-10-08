@@ -8,7 +8,10 @@ Be sure to join the official Unblocked Sites Discord server! https://discord.gg/
 - https://watchdocumentaries.com/games/  -  unblocked games
 - https://superteamxx.github.io/Subway-Surfers/   -  unblocked subway surfers
 - https://superteamxx.github.io/GBA-Emulator-Unblocked/  -  preinstalled GBA unblocked  
-- https://unblocker.whitespider.gq/
+- https://unblocker.whitespider.gq/   -  unblocked games
+
+--------------------------------------------------------------------------------------------
+untested websites:
 - https://unlock.wmeluna.com/
 - https://sz-games.github.io
 - https://ubg100.bitbucket.io/games.html
