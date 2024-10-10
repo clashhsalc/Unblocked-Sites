@@ -1,7 +1,7 @@
 
 
 
-# Unblocked Sites
+# Unblocked Sites (tested on fortinet)
 - https://nirbytes.com/post/1000-proxies-for-school-chromebook-2024 - unblocked browsing proxies
 - - 10 New INTERSTELLAR Links (Oct 5)
   - https://biology.kittencentral.xyz/
